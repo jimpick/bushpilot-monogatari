@@ -853,7 +853,7 @@ After having this pointless conversation for a while, I finally realized that th
 
 This boat is supposed to be looking for tuna?
 
-![In flight aboard the Granada. The helicopter in question is a Hughes 300.](heli2.png)
+![In flight aboard the Granada. The helicopter in question is a Hughes 300.](../jp/heli2.png)
 *In flight aboard the Granada. The helicopter in question is a Hughes 300.*
 
 As this was going on, John, the skipper, came up onto the top deck, smoking a cigar and sporting a scruffy beard. He said that he didn't shave it until he returned from fishing because he was worried that shaving it would lead to poor catches.
@@ -1477,7 +1477,7 @@ After going a little further, we saw the same Cessna flying in the opposite dire
 
 Are they looking for a fishing spot or are they lost?
 
-![Flying over the Mackenzie Highway near Great Slave Lake](heli5.png)
+![Flying over the Mackenzie Highway near Great Slave Lake](../jp/heli5.png)
 *Flying over the Mackenzie Highway near Great Slave Lake*
 
 In any case, unlike in the United States, there were very few radio navigational aids at that time, and on top of that, compass errors were extremely large, so as I mentioned before, when turning, the compass would start spinning and would not stop, making navigation very difficult.
@@ -2244,7 +2244,7 @@ Before long, we came to a wide section of the river and the current began to slo
 
 Knowing that if I missed this chance I would never get another, I seized the opportunity and pulled the bucket out of the water closer to the shore.
 
-![Working in the roadless Dury Inlet (across from Port Hardy on Vancouver Island)](heli7.png)
+![Working in the roadless Dury Inlet (across from Port Hardy on Vancouver Island)](../jp/heli7.png)
 *Working in the roadless Dury Inlet (across from Port Hardy on Vancouver Island)*
 
 Once we got this far, we had it all. After making sure the bucket wouldn't be swept away when it hit the riverbed, we pulled the lever in our hands, detached the bucket, and returned to the heliport.
