@@ -735,7 +735,7 @@ The ship we will be riding on this time has completed repairs at the dock and is
 
 What's more, I don't know what will happen with training, so I'm extremely anxious.
 
-The town of Balboa is the largest town on the Pacific side of the Panama Canal, and from there we go to Balboa Port.In order to enter the port, we have to go through the Panama Canal Zone, which is controlled by the United States on both sides of the Panama Canal, and we cannot enter without obtaining an American visa.
+The town of Balboa is the largest town on the Pacific side of the Panama Canal, and from there we go to Balboa Port. In order to enter the port, we have to go through the Panama Canal Zone, which is controlled by the United States on both sides of the Panama Canal, and we cannot enter without obtaining an American visa.
 
 This is probably also part of the security policy of the great power, America.
 
@@ -1407,13 +1407,13 @@ I thought it was a very simple and careless training, but with most of our pilot
 
 Anyway, we headed back the way we came to Yellowknife and headed to the designated plane charter company there.
 
-Our final destination, Lake Tebesyak, is about 500 kilometers from Yellowknife in a straight line.
+Our final destination, Lake Tebesjuak, is about 500 kilometers from Yellowknife in a straight line.
 
 The flight is about six hours, but there are no airports along the way once we leave here.
 
 After refueling at the village of Fort Reliance at the eastern end of Great Slave Lake, the road is dominated by endless tundra wilderness.
 
-Therefore, our company had requested the charter company to transport dozens of fuel drums to a midpoint on the way to Lake Tebesyak.
+Therefore, our company had requested the charter company to transport dozens of fuel drums to a midpoint on the way to Lake Tebesjuak.
 
 This refueling site is known only to our company personnel, so it can also be used by our helicopters flying from other camps in the Far North.
 
@@ -1530,13 +1530,13 @@ It's a place where wild animals roam.
 
 When I thought about having to camp in a place like this for two months, I regretted not having practiced my shooting.
 
-Anyway, we filled up on fuel and took off straight for our destination, Lake Tebesyak.
+Anyway, we filled up on fuel and took off straight for our destination, Lake Tebesjuak.
 
 Soon we cross the large lake, Lake Dieu Phong, ahead of us.
 
-Once you pass this point, Lake Tebesyak, your destination, is just around the corner.
+Once you pass this point, Lake Tebesjuak, your destination, is just around the corner.
 
-After flying for a while, our destination, Lake Tebesyak, came into view up ahead.
+After flying for a while, our destination, Lake Tebesjuak, came into view up ahead.
 
 I can see several pure white dots on the opposite bank.
 
@@ -2244,8 +2244,8 @@ Before long, we came to a wide section of the river and the current began to slo
 
 Knowing that if I missed this chance I would never get another, I seized the opportunity and pulled the bucket out of the water closer to the shore.
 
-![Working in the roadless Dury Inlet (across from Port Hardy on Vancouver Island)](../jp/heli7.png)
-*Working in the roadless Dury Inlet (across from Port Hardy on Vancouver Island)*
+![Working in the roadless Drury Inlet (across from Port Hardy on Vancouver Island)](../jp/heli7.png)
+*Working in the roadless Drury Inlet (across from Port Hardy on Vancouver Island)*
 
 Once we got this far, we had it all. After making sure the bucket wouldn't be swept away when it hit the riverbed, we pulled the lever in our hands, detached the bucket, and returned to the heliport.
 
@@ -2462,7 +2462,7 @@ The sky was still overcast. "I hope I don't encounter any wolves in a place like
 
 After flying along the river for a while, we came out onto the road.
 
-"This must be the Cassia Highway," I muttered to myself as I looked at the map, but although it had a fancy name, it was just a gravel road.
+"This must be the Cassiar Highway," I muttered to myself as I looked at the map, but although it had a fancy name, it was just a gravel road.
 
 Furthermore, the direction of the roads on the map seems to be different from the actual roads, so the plane flies in the direction shown on the map, thinking, "Maybe this is the direction."
 
@@ -2474,9 +2474,9 @@ He jumped up again and headed back the way he came.
 
 I'm glad I listened, because if I had continued on this path I would have ended up going in the opposite direction from my destination.
 
-After flying for a while, the real Cassia Highway came into view.
+After flying for a while, the real Cassiar Highway came into view.
 
-After crossing the pass and flying along the gentle descent, we came into view of Days Lake, surrounded by greenery, ahead.
+After crossing the pass and flying along the gentle descent, we came into view of Dease Lake, surrounded by greenery, ahead.
 
 The clear blue lake has a mirror-like surface without a single wave.
 
@@ -2486,11 +2486,11 @@ After flying a little further, we came across a road that turned left.
 
 Follow this path to the Cassiar Mine.
 
-The mine is now closed, but in the past it was used to mine asbestos on a large scale, and the Cassia Highway was built to transport it away.
+The mine is now closed, but in the past it was used to mine asbestos on a large scale, and the Cassiar Highway was built to transport it away.
 
 Asbestos is no longer used now because it causes cancer, but it seems that it was very popular in the past.
 
-We continued climbing north along the Cassia Highway for about an hour, without a single car passing by, and finally came out onto the famous Alaska Highway.
+We continued climbing north along the Cassiar Highway for about an hour, without a single car passing by, and finally came out onto the famous Alaska Highway.
 
 Since it's called the Alaska Highway, you'd think it would be an asphalt road with cars zipping along, but it's actually just a road made by piling up earth and gravel after trees had been cut down, and here too there wasn't a single car in sight.
 
@@ -2568,7 +2568,7 @@ Let's never do that again.
 
 ## Logging Record
 
-We flew from Vancouver to Campbell River on a Twin Otter floatplane, then transferred to a De Havilland Beaver floatplane, and arrived at Dury Inlet in about two and a half hours.
+We flew from Vancouver to Campbell River on a Twin Otter floatplane, then transferred to a De Havilland Beaver floatplane, and arrived at Drury Inlet in about two and a half hours.
 
 There are no roads here and the only means of transportation is by seaplane.
 
